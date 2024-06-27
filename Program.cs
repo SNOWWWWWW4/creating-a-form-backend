@@ -3,9 +3,16 @@ using creating_a_form_backend.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddCors(options => options.AddPolicy("FormPolicy", 
+builder => {
+    builder.WithOrigins("http://localhost:3000", "https://phamh-formvalidation.vercel.app")
+    .AllowAnyHeader()
+    .AllowAnyMethod();
+}));
+
 // Add services to the container.
 
-builder.Services.AddControllers();
+// builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -33,5 +40,7 @@ app.MapPost("/AddFormData", (FormModel newUser) => {
 // app.UseAuthorization();
 
 // app.MapControllers();
+
+app.UseCors("FormPolicy");
 
 app.Run();
