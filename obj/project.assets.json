@@ -3921,19 +3921,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lesco\\.nuget\\packages\\": {}
+    "C:\\Users\\danny\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lesco\\OneDrive\\Desktop\\CodeStack\\CSLevel5\\creating-a-form-backend\\creating-a-form-backend.csproj",
+      "projectUniqueName": "C:\\Users\\danny\\Documents\\CSA23_24\\Internship\\Week1&2\\creating-a-form-backend\\creating-a-form-backend.csproj",
       "projectName": "creating-a-form-backend",
-      "projectPath": "C:\\Users\\lesco\\OneDrive\\Desktop\\CodeStack\\CSLevel5\\creating-a-form-backend\\creating-a-form-backend.csproj",
-      "packagesPath": "C:\\Users\\lesco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lesco\\OneDrive\\Desktop\\CodeStack\\CSLevel5\\creating-a-form-backend\\obj\\",
+      "projectPath": "C:\\Users\\danny\\Documents\\CSA23_24\\Internship\\Week1&2\\creating-a-form-backend\\creating-a-form-backend.csproj",
+      "packagesPath": "C:\\Users\\danny\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\danny\\Documents\\CSA23_24\\Internship\\Week1&2\\creating-a-form-backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lesco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\danny\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
