@@ -9,13 +9,15 @@ namespace creating_a_form_backend.Services;
 public class FormService
 {
     public List<FormModel> formList = new();
-    // public FormService()
-    // {
-    //     formList.Add({"bruh", "bruhr"});
-    // }
 
-    public List<FormModel> GetFormData()
+    public IEnumerable<FormModel> GetFormData()
     {
+        return formList;
+    }
+
+    public IEnumerable<FormModel> AddFormData(FormModel newUser)
+    {
+        formList.Add(newUser);
         return formList;
     }
 }

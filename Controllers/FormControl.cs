@@ -15,12 +15,19 @@ public class FormController : ControllerBase
         _formService = formService;
     }
 
-    public List<FormModel> formList = new();
+    // public List<FormModel> formList = new();
 
     [HttpGet]
     [Route("GetFormData")]
-    public List<FormModel> GetFormData()
+    public IEnumerable<FormModel> GetFormData()
     {
         return _formService.GetFormData();
+    }
+
+    [HttpPost]
+    [Route("AddFormData")]
+    public IEnumerable<FormModel> AddFormData(FormModel newUser)
+    {
+        return _formService.AddFormData(newUser);
     }
 }
