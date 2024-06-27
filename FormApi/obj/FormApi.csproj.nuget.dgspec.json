@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lesco\\OneDrive\\Desktop\\CodeStack\\CSLevel5\\creating-a-form-backend\\FormApi\\FormApi.csproj": {}
+    "C:\\Users\\sinat\\OneDrive\\Desktop\\creating-a-form-backend\\FormApi\\FormApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lesco\\OneDrive\\Desktop\\CodeStack\\CSLevel5\\creating-a-form-backend\\FormApi\\FormApi.csproj": {
+    "C:\\Users\\sinat\\OneDrive\\Desktop\\creating-a-form-backend\\FormApi\\FormApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lesco\\OneDrive\\Desktop\\CodeStack\\CSLevel5\\creating-a-form-backend\\FormApi\\FormApi.csproj",
+        "projectUniqueName": "C:\\Users\\sinat\\OneDrive\\Desktop\\creating-a-form-backend\\FormApi\\FormApi.csproj",
         "projectName": "FormApi",
-        "projectPath": "C:\\Users\\lesco\\OneDrive\\Desktop\\CodeStack\\CSLevel5\\creating-a-form-backend\\FormApi\\FormApi.csproj",
-        "packagesPath": "C:\\Users\\lesco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lesco\\OneDrive\\Desktop\\CodeStack\\CSLevel5\\creating-a-form-backend\\FormApi\\obj\\",
+        "projectPath": "C:\\Users\\sinat\\OneDrive\\Desktop\\creating-a-form-backend\\FormApi\\FormApi.csproj",
+        "packagesPath": "C:\\Users\\sinat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sinat\\OneDrive\\Desktop\\creating-a-form-backend\\FormApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lesco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\sinat\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
