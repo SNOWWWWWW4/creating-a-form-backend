@@ -5,8 +5,6 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "creating-a-form-backend", "creating-a-form-backend.csproj", "{666ED151-23EC-487E-B1AE-F6AB445F0985}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormApi", "FormApi\FormApi.csproj", "{A1365F00-4AC0-4CDB-8C13-88EE2578A46F}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
