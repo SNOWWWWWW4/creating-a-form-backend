@@ -1,3 +1,4 @@
+using creating_a_form_backend.Models;
 using creating_a_form_backend.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -21,8 +22,16 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.UseAuthorization();
+FormService _formService = new FormService();
 
-app.MapControllers();
+app.MapGet("/GetFormData", () => _formService.GetFormData());
+
+app.MapPost("/AddFormData", (FormModel newUser) => {
+    _formService.AddFormData(newUser);
+});
+
+// app.UseAuthorization();
+
+// app.MapControllers();
 
 app.Run();
