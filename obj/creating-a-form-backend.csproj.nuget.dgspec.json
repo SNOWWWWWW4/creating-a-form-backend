@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lesco\\OneDrive\\Desktop\\CodeStack\\CSLevel5\\creating-a-form-backend\\creating-a-form-backend.csproj": {}
+    "/Users/brandon/Documents/Codestack/creating-a-form-backend/creating-a-form-backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lesco\\OneDrive\\Desktop\\CodeStack\\CSLevel5\\creating-a-form-backend\\creating-a-form-backend.csproj": {
+    "/Users/brandon/Documents/Codestack/creating-a-form-backend/creating-a-form-backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lesco\\OneDrive\\Desktop\\CodeStack\\CSLevel5\\creating-a-form-backend\\creating-a-form-backend.csproj",
+        "projectUniqueName": "/Users/brandon/Documents/Codestack/creating-a-form-backend/creating-a-form-backend.csproj",
         "projectName": "creating-a-form-backend",
-        "projectPath": "C:\\Users\\lesco\\OneDrive\\Desktop\\CodeStack\\CSLevel5\\creating-a-form-backend\\creating-a-form-backend.csproj",
-        "packagesPath": "C:\\Users\\lesco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lesco\\OneDrive\\Desktop\\CodeStack\\CSLevel5\\creating-a-form-backend\\obj\\",
+        "projectPath": "/Users/brandon/Documents/Codestack/creating-a-form-backend/creating-a-form-backend.csproj",
+        "packagesPath": "/Users/brandon/.nuget/packages/",
+        "outputPath": "/Users/brandon/Documents/Codestack/creating-a-form-backend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lesco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/brandon/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -86,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }

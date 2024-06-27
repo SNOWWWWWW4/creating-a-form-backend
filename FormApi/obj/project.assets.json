@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\lesco\\.nuget\\packages\\": {}
+    "/Users/brandon/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lesco\\OneDrive\\Desktop\\CodeStack\\CSLevel5\\creating-a-form-backend\\FormApi\\FormApi.csproj",
+      "projectUniqueName": "/Users/brandon/Documents/Codestack/creating-a-form-backend/FormApi/FormApi.csproj",
       "projectName": "FormApi",
-      "projectPath": "C:\\Users\\lesco\\OneDrive\\Desktop\\CodeStack\\CSLevel5\\creating-a-form-backend\\FormApi\\FormApi.csproj",
-      "packagesPath": "C:\\Users\\lesco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lesco\\OneDrive\\Desktop\\CodeStack\\CSLevel5\\creating-a-form-backend\\FormApi\\obj\\",
+      "projectPath": "/Users/brandon/Documents/Codestack/creating-a-form-backend/FormApi/FormApi.csproj",
+      "packagesPath": "/Users/brandon/.nuget/packages/",
+      "outputPath": "/Users/brandon/Documents/Codestack/creating-a-form-backend/FormApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lesco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/brandon/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
