@@ -14,7 +14,6 @@ namespace creating_a_form_backend.Services
 {
     public class Form_UserService : ControllerBase
     {
-        // private readonly List<Form_UserModels> formModel = new List<Form_UserModels>();
         private readonly DataContext _context;
 
         public Form_UserService(DataContext context)
@@ -129,11 +128,6 @@ namespace creating_a_form_backend.Services
 
             _context.Update<Form_UserModels>(foundUser);
             return _context.SaveChanges() != 0;
-        }
-
-        public Form_UserModels GetUserById(int id)
-        {
-            return _context.Form_UserInfo.SingleOrDefault(user => user.ID == id);
         }
     }
 }

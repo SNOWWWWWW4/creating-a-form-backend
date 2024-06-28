@@ -1,6 +1,6 @@
 namespace creating_a_form_backend.Models;
 
-public class FormModel
+public class Form_FormModels
 {
     public int ID { get; set; }
     public string First { get; set; }
