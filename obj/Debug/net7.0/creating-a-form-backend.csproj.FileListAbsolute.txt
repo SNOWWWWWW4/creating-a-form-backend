@@ -74,3 +74,4 @@
 /Users/aplasticbin/Documents/Codestack/CombineLevelFive/GitHub_Repos/creating-a-form-backend/obj/Debug/net7.0/creating-a-form-backend.pdb
 /Users/aplasticbin/Documents/Codestack/CombineLevelFive/GitHub_Repos/creating-a-form-backend/obj/Debug/net7.0/creating-a-form-backend.genruntimeconfig.cache
 /Users/aplasticbin/Documents/Codestack/CombineLevelFive/GitHub_Repos/creating-a-form-backend/obj/Debug/net7.0/ref/creating-a-form-backend.dll
+/Users/aplasticbin/Documents/Codestack/CombineLevelFive/GitHub_Repos/creating-a-form-backend/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
