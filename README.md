@@ -1,0 +1,1 @@
+Current state: API is prepped to be added to a web service and connected to a database. This is in .NET 7, and is a backup API in case the .NET 8 API fails to work in time.
